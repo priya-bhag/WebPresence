@@ -1,0 +1,1769 @@
+2017-08-10 08:27:02,858 - RapidWatershedAssessment1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Data, Maps, & Analysis /, Rapid Watershed Assessment]
+2017-08-10 08:27:02,859 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:27:49,680 - RapidWatershedAssessment1 -INFO - Title of Prod is Rapid Watershed Assessment | NRCS Arizona
+2017-08-10 08:27:49,683 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:27:49,683 - RapidWatershedAssessment1 -INFO - Title of Test is Rapid Watershed Assessment
+2017-08-10 08:27:49,683 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:27:49,684 - RapidWatershedAssessment1 -INFO - Titles of both URLs are not same
+2017-08-10 08:27:49,684 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:27:49,684 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:27:49,841 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:28:06,778 - RapidWatershedAssessment1 -INFO - 	
+2017-08-10 08:28:06,788 - RapidWatershedAssessment1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:28:06,789 - RapidWatershedAssessment1 -INFO - Total number of of Valid links in Prod are 25
+2017-08-10 08:28:06,789 - RapidWatershedAssessment1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 08:28:06,789 - RapidWatershedAssessment1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/dma/rwa/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/dma/rwa/get.adobe.com/reader/__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064841.pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064577&ext=pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064910.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064911.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064842.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064732.pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064960&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064902&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064669&ext=pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064835.pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064776&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064777&ext=pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064836.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064727.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064903.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064837.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064728.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064621.pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064729&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064838&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064839&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064670&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcs144p2_064572&ext=pdf__OK
+
+2017-08-10 08:28:06,789 - RapidWatershedAssessment1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/rwa/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVKbqJ-RFF5ItA5UYRsLMgNjajycUwLdlRUBABLk3Sg/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/rwa/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVKbqJ-RFF5ItA5UYRsLMgNjajycUwLdlRUBABLk3Sg/get.adobe.com/reader/__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064841.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064577.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064910.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064911.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064842.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064732.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064960.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064902.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064669.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064835.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064776.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064777.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064836.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064727.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064903.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064837.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064728.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064621.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064729.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064838.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064839.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064670.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064572.pdf__Not Found
+
+2017-08-10 08:28:35,975 - Economics1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Data, Maps, & Analysis /, Economics]
+2017-08-10 08:28:35,975 - Economics1 -INFO - 	
+2017-08-10 08:28:47,210 - Economics1 -INFO - Title of Prod is Economics | NRCS Arizona
+2017-08-10 08:28:47,210 - Economics1 -INFO - 	
+2017-08-10 08:28:47,212 - Economics1 -INFO - Title of Test is Arizona Economics Resources
+2017-08-10 08:28:47,212 - Economics1 -INFO - 	
+2017-08-10 08:28:47,212 - Economics1 -INFO - Titles of both URLs are not same
+2017-08-10 08:28:47,212 - Economics1 -INFO - 	
+2017-08-10 08:28:47,212 - Economics1 -INFO - 	
+2017-08-10 08:28:47,323 - Economics1 -INFO - 	
+2017-08-10 08:29:05,136 - Economics1 -INFO - 	
+2017-08-10 08:29:52,344 - AirQuality1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Air /, Air Quality]
+2017-08-10 08:29:52,344 - AirQuality1 -INFO - 	
+2017-08-10 08:29:59,031 - AirQuality1 -INFO - Title of Prod is Air Quality | NRCS Arizona
+2017-08-10 08:29:59,031 - AirQuality1 -INFO - 	
+2017-08-10 08:29:59,034 - AirQuality1 -INFO - Title of Test is Air Quality
+2017-08-10 08:29:59,034 - AirQuality1 -INFO - 	
+2017-08-10 08:29:59,034 - AirQuality1 -INFO - Titles of both URLs are not same
+2017-08-10 08:29:59,034 - AirQuality1 -INFO - 	
+2017-08-10 08:29:59,035 - AirQuality1 -INFO - 	
+2017-08-10 08:29:59,145 - AirQuality1 -INFO - 	
+2017-08-10 08:30:00,958 - AirQuality1 -INFO - 	
+2017-08-10 08:30:10,420 - SpecialEmphasisPrograms1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Outreach & Advocacy /, Special Emphasis Programs]
+2017-08-10 08:30:10,420 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:24,936 - SpecialEmphasisPrograms1 -INFO - Title of Prod is Special Emphasis Programs | NRCS Arizona
+2017-08-10 08:30:24,936 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:24,939 - SpecialEmphasisPrograms1 -INFO - Title of Test is Arizona Special Emphasis Programs
+2017-08-10 08:30:24,939 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:24,939 - SpecialEmphasisPrograms1 -INFO - Titles of both URLs are not same
+2017-08-10 08:30:24,939 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:24,939 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:25,033 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:36,940 - SpecialEmphasisPrograms1 -INFO - 	
+2017-08-10 08:30:46,454 - STCMinutes1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, State Technical Committee /, STC Minutes]
+2017-08-10 08:30:46,454 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:30,095 - STCMinutes1 -INFO - Title of Prod is STC Minutes | NRCS Arizona
+2017-08-10 08:31:30,095 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:30,098 - STCMinutes1 -INFO - Title of Test is 4-17-2013 AZ NRCS State Technical Committee Meeting
+2017-08-10 08:31:30,098 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:30,098 - STCMinutes1 -INFO - Titles of both URLs are not same
+2017-08-10 08:31:30,099 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:30,099 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:30,272 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:42,194 - STCMinutes1 -INFO - 	
+2017-08-10 08:31:42,194 - STCMinutes1 -INFO - No of links doesnt match in both Env:
+2017-08-10 08:31:42,204 - STCMinutes1 -INFO - Total number of of links in Prod are 30
+2017-08-10 08:31:42,204 - STCMinutes1 -INFO - Total number of of links in Test are 3
+2017-08-10 08:31:42,204 - STCMinutes1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/stc/minutes/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328505&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328501&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328502&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1319261&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303282&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303285&ext=doc__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303284&ext=doc__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303280&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303281&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1301371&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294331&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294328&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294329&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294327&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294330&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294332&ext=potx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1296828&ext=docx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192232&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192231&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192230&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192234&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192233&ext=pdf__OK
+
+2017-08-10 08:31:42,205 - STCMinutes1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/stc/minutes/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVxSbJ-RG5mXmlJajHQSVGEbC3IDY2o8nFMC3ZUVAQAJSl55A!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1185640.pdf__Not Found
+
+2017-08-10 08:31:42,205 - STCMinutes1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:31:42,205 - STCMinutes1 -INFO - Total number of of Valid links in Prod are 29
+2017-08-10 08:31:42,205 - STCMinutes1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 08:31:42,206 - STCMinutes1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/stc/minutes/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1338030&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328505&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328501&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1328502&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1319261&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303282&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303285&ext=doc__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303284&ext=doc__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303280&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1303281&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1301371&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294331&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294328&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294329&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294327&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294330&ext=pptx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1294332&ext=potx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1296828&ext=docx__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258253&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192232&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192231&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192230&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192234&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1192233&ext=pdf__OK
+
+2017-08-10 08:31:42,206 - STCMinutes1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/stc/minutes/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVxSbJ-RG5mXmlJajHQSVGEbC3IDY2o8nFMC3ZUVAQAJSl55A!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1185640.pdf__Not Found
+
+2017-08-10 08:32:35,181 - SuccessStories1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Newsroom /, Success Stories]
+2017-08-10 08:32:35,181 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:14,697 - SuccessStories1 -INFO - Title of Prod is Success Stories | NRCS Arizona
+2017-08-10 08:33:14,697 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:14,701 - SuccessStories1 -INFO - Title of Test is Success Stories
+2017-08-10 08:33:14,701 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:14,701 - SuccessStories1 -INFO - Titles of both URLs are not same
+2017-08-10 08:33:14,701 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:14,702 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:14,827 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:28,968 - SuccessStories1 -INFO - 	
+2017-08-10 08:33:28,968 - SuccessStories1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:33:28,972 - SuccessStories1 -INFO - Total number of of Valid links in Prod are 20
+2017-08-10 08:33:28,972 - SuccessStories1 -INFO - Total number of of Valid links in Test are 17
+2017-08-10 08:33:28,973 - SuccessStories1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/stories/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=stelprdb1262835__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=stelprdb1262835__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065169__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065117__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065118__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065119__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065120__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065121__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065122__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065123__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065124__OK
+http://www.ams.usda.gov/AMSv1.0/nop__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065125__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065171__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/stories/Avondale-FO_Underserved.html__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065126__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065127__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/stories/releases/Williams-Luna-Pecans.html__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065128__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/stories/releases/Chinle_farm.html__OK
+
+2017-08-10 08:33:28,973 - SuccessStories1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RXJJflJlaDHRMFCH7CnJDI6p8nCw9HRUVAdikaSw!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/STELPRDB1262835__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/STELPRDB1262835__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065169__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065117__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065118__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065119__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065120__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065121__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065122__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065123__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065124__OK
+http://www.ams.usda.gov/AMSv1.0/nop__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065125__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065171__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RXJJflJlaDHRMFCH7CnJDI6p8nCw9HRUVAdikaSw!/Avondale-FO_Underserved.html__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065126__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065127__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RXJJflJlaDHRMFCH7CnJDI6p8nCw9HRUVAdikaSw!/releases/Williams-Luna-Pecans.html__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065128__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RXJJflJlaDHRMFCH7CnJDI6p8nCw9HRUVAdikaSw!/releases/Chinle_farm.html__Not Found
+
+2017-08-10 08:33:40,144 - CivilRights1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Civil Rights]
+2017-08-10 08:33:40,144 - CivilRights1 -INFO - 	
+2017-08-10 08:34:10,410 - CivilRights1 -INFO - Title of Prod is Civil Rights | NRCS Arizona
+2017-08-10 08:34:10,410 - CivilRights1 -INFO - 	
+2017-08-10 08:34:10,412 - CivilRights1 -INFO - Title of Test is Civil Rights
+2017-08-10 08:34:10,412 - CivilRights1 -INFO - 	
+2017-08-10 08:34:10,412 - CivilRights1 -INFO - Titles of both URLs are not same
+2017-08-10 08:34:10,412 - CivilRights1 -INFO - 	
+2017-08-10 08:34:10,412 - CivilRights1 -INFO - 	
+2017-08-10 08:34:10,477 - CivilRights1 -INFO - 	
+2017-08-10 08:34:15,508 - CivilRights1 -INFO - 	
+2017-08-10 08:34:15,524 - CivilRights1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:34:15,524 - CivilRights1 -INFO - Total number of of Valid links in Prod are 12
+2017-08-10 08:34:15,525 - CivilRights1 -INFO - Total number of of Valid links in Test are 9
+2017-08-10 08:34:15,525 - CivilRights1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/about/civilrights/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd362666&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065106__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065105__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065107__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065111__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065108__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065109__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/sep/?cid=nrcs144p2_065110__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1253740&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1253740&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/about/civilrights/?cid=nrcsdev11_001042__OK
+
+2017-08-10 08:34:15,525 - CivilRights1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/about/civilrights/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVgFxEn5pSX6EcmZZZk5RZnpGSXFQNdEEbKwIDc0osrHydLTUVERAP49HoM!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd362666.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065106__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065105__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065107__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065111__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065108__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065109__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/sep/nrcs144p2_065110__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1253740.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1253740.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/national/about/civilrights/NRCSDEV11_001042__OK
+
+2017-08-10 08:35:10,590 - SnowSurvey1 -INFO - Title of Prod is Snow Survey | NRCS Arizona
+2017-08-10 08:35:10,590 - SnowSurvey1 -INFO - 	
+2017-08-10 08:35:10,601 - SnowSurvey1 -INFO - Title of Test is Snow Survey Program
+2017-08-10 08:35:10,601 - SnowSurvey1 -INFO - 	
+2017-08-10 08:35:10,601 - SnowSurvey1 -INFO - Titles of both URLs are not same
+2017-08-10 08:36:08,592 - AboutUs1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us]
+2017-08-10 08:36:24,527 - AboutUs1 -INFO - Title of Prod is About Us | NRCS Arizona
+2017-08-10 08:36:24,527 - AboutUs1 -INFO - 	
+2017-08-10 08:36:24,529 - AboutUs1 -INFO - Title of Test is About Us
+2017-08-10 08:36:24,529 - AboutUs1 -INFO - 	
+2017-08-10 08:36:24,529 - AboutUs1 -INFO - Titles of both URLs are not same
+2017-08-10 08:36:24,529 - AboutUs1 -INFO - 	
+2017-08-10 08:36:25,905 - AboutUs1 -INFO - 	
+2017-08-10 08:36:25,905 - AboutUs1 -INFO - 	
+2017-08-10 08:36:37,165 - AboutUs1 -INFO - 	
+2017-08-10 08:37:01,807 - Newsroom1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Newsroom]
+2017-08-10 08:37:01,807 - Newsroom1 -INFO - 	
+2017-08-10 08:39:01,741 - InvasiveSpecies1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Ecological Science /, Invasive Species]
+2017-08-10 08:39:01,741 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:15,148 - InvasiveSpecies1 -INFO - Title of Prod is Invasive Species | NRCS Arizona
+2017-08-10 08:39:15,148 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:15,151 - InvasiveSpecies1 -INFO - Title of Test is Noxious & Invasive Species
+2017-08-10 08:39:15,151 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:15,151 - InvasiveSpecies1 -INFO - Titles of both URLs are not same
+2017-08-10 08:39:15,151 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:15,151 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:15,214 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:25,746 - InvasiveSpecies1 -INFO - 	
+2017-08-10 08:39:37,032 - AgriculturalConservationEasementProgram1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Easements /, Agricultural Conservation Easement Program]
+2017-08-10 08:39:37,032 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:18,158 - AgriculturalConservationEasementProgram1 -INFO - Title of Prod is Agricultural Conservation Easement Program | NRCS Arizona
+2017-08-10 08:40:18,158 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:18,160 - AgriculturalConservationEasementProgram1 -INFO - Title of Test is Overview - ACEP-ALE
+2017-08-10 08:40:18,160 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:18,160 - AgriculturalConservationEasementProgram1 -INFO - Titles of both URLs are not same
+2017-08-10 08:40:18,160 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:18,225 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:49,429 - AgriculturalConservationEasementProgram1 -INFO - 	
+2017-08-10 08:40:49,429 - AgriculturalConservationEasementProgram1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:40:49,437 - AgriculturalConservationEasementProgram1 -INFO - Total number of of Valid links in Prod are 26
+2017-08-10 08:40:49,438 - AgriculturalConservationEasementProgram1 -INFO - Total number of of Valid links in Test are 7
+2017-08-10 08:40:49,438 - AgriculturalConservationEasementProgram1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/easements/acep/#__OK
+https://youtu.be/9gDYYJ0IzIQ__OK
+http://www.regulations.gov/#!documentDetail;D=NRCS-2014-0011-0001__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1263599__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1263599__Moved Permanently
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310855&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1296286&ext=pdf__OK
+http://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd322826&ext=pdf__Moved Permanently
+http://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd322827&ext=docx__Moved Permanently
+http://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd323205&ext=pdf__Moved Permanently
+http://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd323206&ext=pdf__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/farmbill/rcpp/?cid=nrcseprd1299887__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289237&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258264&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310854&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310853&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258269&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304153&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304154&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258273&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258274&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258274&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258274&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258275&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310855&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258266&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/?cid=stelprdb1257063__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258272&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310855&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247880&ext=pdf__OK
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1242382__OK
+
+2017-08-10 08:40:49,438 - AgriculturalConservationEasementProgram1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/easements/acep/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1FQlJ9elJhbrB-RmlicmpuaVwJkJianFgAdFUXI3oLc0IgqH8e0YEdFRQDRZqb7/#__OK
+https://youtu.be/9gDYYJ0IzIQ__OK
+http://www.regulations.gov/#!documentDetail;D=NRCS-2014-0011-0001__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1263599__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1263599__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310855.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1296286.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd322826.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd322827.docx__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd323205.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd323206.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/farmbill/rcpp/NRCSEPRD1299887__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289237.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258264.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310854.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310853.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258269.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304153.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304154.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258273.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258274.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258274.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258274.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258275.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310855.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258266.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/STELPRDB1257063__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258272.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310855.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247880.pdf__Not Found
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/STELPRDB1242382__OK
+
+2017-08-10 08:41:20,236 - EmergencyWatershedProtectionProgram1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Financial Assistance /, Emergency Watershed Protection Program]
+2017-08-10 08:41:20,236 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:28,798 - EmergencyWatershedProtectionProgram1 -INFO - Title of Prod is Emergency Watershed Protection Program | NRCS Arizona
+2017-08-10 08:41:28,798 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:28,803 - EmergencyWatershedProtectionProgram1 -INFO - Title of Test is EWP Emergency Recovery Plan
+2017-08-10 08:41:28,803 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:28,803 - EmergencyWatershedProtectionProgram1 -INFO - Titles of both URLs are not same
+2017-08-10 08:41:28,804 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:28,804 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:29,023 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:31,023 - EmergencyWatershedProtectionProgram1 -INFO - 	
+2017-08-10 08:41:31,023 - EmergencyWatershedProtectionProgram1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:41:31,030 - EmergencyWatershedProtectionProgram1 -INFO - Total number of of Valid links in Prod are 5
+2017-08-10 08:41:31,030 - EmergencyWatershedProtectionProgram1 -INFO - Total number of of Valid links in Test are 2
+2017-08-10 08:41:31,031 - EmergencyWatershedProtectionProgram1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/financial/ewp/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/contact/local/?cid=nrcs144p2_065131__OK
+http://get.adobe.com/reader/__Moved Permanently
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1251669&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1251668&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1258809&ext=pdf__OK
+
+2017-08-10 08:41:31,031 - EmergencyWatershedProtectionProgram1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/ewp/!ut/p/z1/jU9LCsIwFDxLDyAvsSpu03SjNAqKGN9GHmJiwCYhFoWe3uje1tkNzBcQNKCnp7PUueDpnvkJF-eS1ZLzGdssSzlnomoqtdrWnO04HL8C9gOCAf7jHxDgcPx6rCA_mCYllQWM1N0mzpsAmnrQMQWbqH2ANs6Tv7jP3-sr5k04Vhvbg-4bYfaiKN7BVs0I/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/contact/local/nrcs144p2_065131__OK
+http://get.adobe.com/reader/__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1251669.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1251668.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1258809.pdf__Not Found
+
+2017-08-10 08:41:42,418 - Easements1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Easements]
+2017-08-10 08:41:42,418 - Easements1 -INFO - 	
+2017-08-10 08:41:54,496 - Easements1 -INFO - Title of Prod is Easements | NRCS Arizona
+2017-08-10 08:41:54,496 - Easements1 -INFO - 	
+2017-08-10 08:41:54,499 - Easements1 -INFO - Title of Test is Easements
+2017-08-10 08:41:54,499 - Easements1 -INFO - 	
+2017-08-10 08:41:54,499 - Easements1 -INFO - Titles of both URLs are not same
+2017-08-10 08:41:54,499 - Easements1 -INFO - 	
+2017-08-10 08:41:54,500 - Easements1 -INFO - 	
+2017-08-10 08:41:54,578 - Easements1 -INFO - 	
+2017-08-10 08:41:59,547 - Easements1 -INFO - 	
+2017-08-10 08:42:11,286 - TeachersandStudents1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, People /, Teachers and Students]
+2017-08-10 08:42:11,286 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:19,630 - TeachersandStudents1 -INFO - Title of Prod is Teachers and Students | NRCS Arizona
+2017-08-10 08:42:19,630 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:19,633 - TeachersandStudents1 -INFO - Title of Test is Teachers and Students
+2017-08-10 08:42:19,633 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:19,633 - TeachersandStudents1 -INFO - Titles of both URLs are not same
+2017-08-10 08:42:19,633 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:19,633 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:19,681 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:24,837 - TeachersandStudents1 -INFO - 	
+2017-08-10 08:42:53,459 - LocalServiceCenters1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Contact Us /, Local Service Centers]
+2017-08-10 08:42:53,459 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:43:23,785 - LocalServiceCenters1 -INFO - Title of Prod is Local Service Centers | NRCS Arizona
+2017-08-10 08:43:23,786 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:43:23,786 - LocalServiceCenters1 -INFO - Title of Test is Field Offices
+2017-08-10 08:43:23,786 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:43:23,786 - LocalServiceCenters1 -INFO - Titles of both URLs are not same
+2017-08-10 08:43:23,786 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:43:23,836 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:43:53,440 - LocalServiceCenters1 -INFO - 	
+2017-08-10 08:44:02,473 - WaterSupply1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Snow Survey /, Water Supply Products /, Water Supply]
+2017-08-10 08:44:02,473 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:20,848 - WaterSupply1 -INFO - Title of Prod is Water Supply | NRCS Arizona
+2017-08-10 08:44:20,848 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:20,851 - WaterSupply1 -INFO - Title of Test is Water Supply & Reservoir Storage
+2017-08-10 08:44:20,851 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:20,851 - WaterSupply1 -INFO - Titles of both URLs are not same
+2017-08-10 08:44:20,851 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:20,851 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:20,931 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:35,133 - WaterSupply1 -INFO - 	
+2017-08-10 08:44:35,133 - WaterSupply1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:44:35,147 - WaterSupply1 -INFO - Total number of of Valid links in Prod are 3
+2017-08-10 08:44:35,148 - WaterSupply1 -INFO - Total number of of Valid links in Test are 2
+2017-08-10 08:44:35,148 - WaterSupply1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/snow/waterproducts/supply/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/snow/waterproducts/basin/?cid=nrcs144p2_065149__OK
+http://www.wcc.nrcs.usda.gov/basin.html__Moved Permanently
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd376412&ext=pdf__OK
+http://www.wcc.nrcs.usda.gov/cgibin/resv-graph.pl?state=AZ__Moved Permanently
+http://www.wcc.nrcs.usda.gov/reports/SelectUpdateReport.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/factpub/intrpret.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/factpub/aib536.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/strm_cht.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/bor.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/sssf.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/fcst_tbl.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/resv-graph-west.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/rs.pl__Moved Permanently
+
+2017-08-10 08:44:35,148 - WaterSupply1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/snow/waterproducts/supply/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1Gcl1-uH1GeWJJaVFCUn1KaXFIMFCwtKMipBDoripDNBbmhEVU-jmnBjoqKAGvekvs!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/snow/waterproducts/basin/nrcs144p2_065149__OK
+http://www.wcc.nrcs.usda.gov/basin.html__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd376412.pdf__Not Found
+http://www.wcc.nrcs.usda.gov/cgibin/resv-graph.pl?state=AZ__Moved Permanently
+http://www.wcc.nrcs.usda.gov/reports/SelectUpdateReport.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/factpub/intrpret.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/factpub/aib536.html__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/strm_cht.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/bor.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/sssf.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/fcst_tbl.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/resv-graph-west.pl__Moved Permanently
+http://www.wcc.nrcs.usda.gov/cgibin/rs.pl__Moved Permanently
+
+2017-08-10 08:44:44,632 - Soils1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Soils]
+2017-08-10 08:44:44,632 - Soils1 -INFO - 	
+2017-08-10 08:44:54,991 - Soils1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/soils/#-OK
+2017-08-10 08:44:54,991 - Soils1 -INFO - No of emails are 0
+2017-08-10 08:44:54,994 - Soils1 -INFO - Total number of of links in  Prod are 1
+2017-08-10 08:44:54,994 - Soils1 -INFO - Total number of of Valid links in  Prod are 1
+2017-08-10 08:44:55,168 - Soils1 -INFO - Main menu elements are 
+2017-08-10 08:44:55,168 - Soils1 -INFO - [Soil Health, Soil Surveys]
+2017-08-10 08:44:55,168 - Soils1 -INFO - No of main menu elements 2
+2017-08-10 08:44:55,168 - Soils1 -INFO - 	
+2017-08-10 08:45:15,784 - TechnicalResources1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources]
+2017-08-10 08:45:15,784 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:26,253 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/#-OK
+2017-08-10 08:45:27,198 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1262297&ext=docx-OK
+2017-08-10 08:45:28,229 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1262302&ext=pptx-OK
+2017-08-10 08:45:29,109 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1262303&ext=pptx-OK
+2017-08-10 08:45:30,031 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1262304&ext=pptx-OK
+2017-08-10 08:45:30,905 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1262305&ext=ppt-OK
+2017-08-10 08:45:32,030 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247779&ext=docx-OK
+2017-08-10 08:45:32,906 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1246736&ext=pptx-OK
+2017-08-10 08:45:34,046 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247781&ext=docx-OK
+2017-08-10 08:45:34,945 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247780&ext=xlsx-OK
+2017-08-10 08:45:36,055 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1246737&ext=pptx-OK
+2017-08-10 08:45:37,580 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1246764&ext=pptx-OK
+2017-08-10 08:45:38,531 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1246739&ext=docx-OK
+2017-08-10 08:45:39,609 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1246740&ext=pptx-OK
+2017-08-10 08:45:40,920 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247788&ext=docx-OK
+2017-08-10 08:45:41,868 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1193540&ext=ppt-OK
+2017-08-10 08:45:42,931 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1193541&ext=pptx-OK
+2017-08-10 08:45:44,254 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1193543&ext=pptx-OK
+2017-08-10 08:45:45,410 - TechnicalResources1 -INFO - https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1193542&ext=pptx-OK
+2017-08-10 08:45:45,410 - TechnicalResources1 -INFO - No of emails are 0
+2017-08-10 08:45:45,422 - TechnicalResources1 -INFO - Total number of of links in  Prod are 19
+2017-08-10 08:45:45,423 - TechnicalResources1 -INFO - Total number of of Valid links in  Prod are 19
+2017-08-10 08:45:45,893 - TechnicalResources1 -INFO - Main menu elements are 
+2017-08-10 08:45:45,893 - TechnicalResources1 -INFO - [Conservation Planning, Data, Maps, & Analysis, Ecological Science, Engineering, Land Use, State Technical Committee]
+2017-08-10 08:45:45,893 - TechnicalResources1 -INFO - No of main menu elements 6
+2017-08-10 08:45:45,893 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:47,440 - TechnicalResources1 -INFO - sub menu elements are;
+2017-08-10 08:45:47,440 - TechnicalResources1 -INFO - [Conservation Technical Assistance, Technical Service Providers, Economics, GIS, National Resources Inventory, Rapid Watershed Assessment, Agronomy, Biology, Cultural Resources, Invasive Species, Manure Management, Nutrient Management, Pest Management, Threatened & Endangered Species, Cropland, Range & Pasture, Forestry, STC Minutes, STC Agenda]
+2017-08-10 08:45:47,446 - TechnicalResources1 -INFO - No of sub menu elements 19
+2017-08-10 08:45:49,853 - TechnicalResources1 -INFO - Title of Prod is Technical Resources | NRCS Arizona
+2017-08-10 08:45:49,853 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - Title of Test is Technical Resources
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - Heading of Prod is Technical Resources
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - Heading of Test is Technical Resources
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - Heading of both Env: are same
+2017-08-10 08:45:49,865 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,866 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,944 - TechnicalResources1 -INFO - The breadcrumb of Test is [You are Here:, Home /, Technical Resources]
+2017-08-10 08:45:49,944 - TechnicalResources1 -INFO - 	
+2017-08-10 08:45:49,944 - TechnicalResources1 -INFO - Breadcrumb on both Env: are same
+2017-08-10 08:45:49,944 - TechnicalResources1 -INFO - 	
+2017-08-10 08:46:00,460 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM9GW4fhQhewpyQyOqfDwM0h0VFQHU114N/#-OK
+2017-08-10 08:46:00,889 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/stc/NRCS144P2_065044-OK
+2017-08-10 08:46:01,326 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/STELPRDB1240591-OK
+2017-08-10 08:46:01,763 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/engineering/nrcs144p2_065068-OK
+2017-08-10 08:46:01,879 - TechnicalResources1 -INFO - http://efotg.nrcs.usda.gov/efotg_locator.aspx?map=AZ-Found
+2017-08-10 08:46:02,316 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/gis/nrcs144p2_065037-OK
+2017-08-10 08:46:02,535 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/soils/survey/office/ssr8/NRCS144P2_065086-OK
+2017-08-10 08:46:03,020 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/nri/nrcs144p2_065041-OK
+2017-08-10 08:46:03,232 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/plantmaterials/pmc/west/nmpmc/STELPRDB1086084-OK
+2017-08-10 08:46:03,451 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/plantmaterials/pmc/west/azpmc/STELPRDB1082578-OK
+2017-08-10 08:46:03,951 - TechnicalResources1 -INFO - http://www.nrcs.usda.gov/wps/portal/nrcs/publications/plantmaterials/pmc/west/azpmc/pub-Moved Permanently
+2017-08-10 08:46:04,076 - TechnicalResources1 -INFO - http://www.nrcs.usda.gov/wps/portal/nrcs/pmreleases/plantmaterials/pmc/west/azpmc/cp/-Moved Permanently
+2017-08-10 08:46:04,194 - TechnicalResources1 -INFO - http://www.nrcs.usda.gov/wps/portal/nrcs/main/plantmaterials/pmc/west/azpmc/news/-Moved Permanently
+2017-08-10 08:46:04,584 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/rwa/nrcs144p2_065042-OK
+2017-08-10 08:46:04,959 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/snow/nrcs144p2_065136-OK
+2017-08-10 08:46:05,381 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/surveys/nrcs144p2_065081-OK
+2017-08-10 08:46:05,784 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/nrcs144p2_065026-OK
+2017-08-10 08:46:06,034 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064667.pdf - Not Found
+2017-08-10 08:46:06,518 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065186-OK
+2017-08-10 08:46:07,011 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065174-OK
+2017-08-10 08:46:07,620 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065172-OK
+2017-08-10 08:46:08,335 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065179-OK
+2017-08-10 08:46:08,835 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065158-OK
+2017-08-10 08:46:09,361 - TechnicalResources1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065177-OK
+2017-08-10 08:46:09,361 - TechnicalResources1 -INFO - No of links in Test are 24
+2017-08-10 08:46:09,361 - TechnicalResources1 -INFO - No of email  links in Test are 0
+2017-08-10 08:46:09,361 - TechnicalResources1 -INFO - Total number of of Valid links in Test are 19
+2017-08-10 08:46:09,673 - TechnicalResources1 -INFO - main menu elements are;
+2017-08-10 08:46:09,673 - TechnicalResources1 -INFO - [Conservation Planning, Ecological Science, Engineering, Land Use, State Technical Committee]
+2017-08-10 08:46:09,673 - TechnicalResources1 -INFO - No of main menu elements in  5
+2017-08-10 08:46:09,673 - TechnicalResources1 -INFO - 	
+2017-08-10 08:46:47,135 - NationalResourcesInventory1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Data, Maps, & Analysis /, National Resources Inventory]
+2017-08-10 08:46:47,135 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:00,792 - NationalResourcesInventory1 -INFO - Title of Prod is National Resources Inventory | NRCS Arizona
+2017-08-10 08:47:00,792 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:00,794 - NationalResourcesInventory1 -INFO - Title of Test is NRI
+2017-08-10 08:47:00,794 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:00,794 - NationalResourcesInventory1 -INFO - Titles of both URLs are not same
+2017-08-10 08:47:00,794 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:00,794 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:00,983 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:11,780 - NationalResourcesInventory1 -INFO - 	
+2017-08-10 08:47:20,091 - NRCSEmployees1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, People /, NRCS Employees]
+2017-08-10 08:47:20,091 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:48:12,543 - NRCSEmployees1 -INFO - Title of Prod is NRCS Employees | NRCS Arizona
+2017-08-10 08:48:12,543 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:48:12,555 - NRCSEmployees1 -INFO - Title of Test is Employee Intranet
+2017-08-10 08:48:12,555 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:48:12,555 - NRCSEmployees1 -INFO - Titles of both URLs are not same
+2017-08-10 08:48:12,555 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:48:12,555 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:48:12,603 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:49:02,432 - NRCSEmployees1 -INFO - 	
+2017-08-10 08:49:11,920 - PublicNotices1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Newsroom /, Public Notices]
+2017-08-10 08:49:11,920 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:31,311 - PublicNotices1 -INFO - Title of Prod is Public Notices | NRCS Arizona
+2017-08-10 08:49:31,311 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:31,313 - PublicNotices1 -INFO - Title of Test is Public Notice Announcements
+2017-08-10 08:49:31,313 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:31,313 - PublicNotices1 -INFO - Titles of both URLs are not same
+2017-08-10 08:49:31,313 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:31,313 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:31,393 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:43,002 - PublicNotices1 -INFO - 	
+2017-08-10 08:49:43,002 - PublicNotices1 -INFO - No of links doesnt match in both Env:
+2017-08-10 08:49:43,008 - PublicNotices1 -INFO - Total number of of links in Prod are 6
+2017-08-10 08:49:43,008 - PublicNotices1 -INFO - Total number of of links in Test are 5
+2017-08-10 08:49:43,009 - PublicNotices1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/pnotice/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/pnotice/?cid=nrcseprd1333251__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/pnotice/?cid=nrcseprd676606__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064717.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064889.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064611.pdf__OK
+
+2017-08-10 08:49:43,009 - PublicNotices1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/pnotice/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RkJdfkpmcCnRMFCH7CnJDI6p8nCw9HRUVAQqQQ1I!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/pnotice/NRCSEPRD676606__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064717.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064889.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064611.pdf__Not Found
+
+2017-08-10 08:49:43,009 - PublicNotices1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:49:43,010 - PublicNotices1 -INFO - Total number of of Valid links in Prod are 6
+2017-08-10 08:49:43,010 - PublicNotices1 -INFO - Total number of of Valid links in Test are 2
+2017-08-10 08:49:43,010 - PublicNotices1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/newsroom/pnotice/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/pnotice/?cid=nrcseprd1333251__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/pnotice/?cid=nrcseprd676606__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064717.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064889.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064611.pdf__OK
+
+2017-08-10 08:49:43,010 - PublicNotices1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/pnotice/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5GXWl5clJ-fqx9RkJdfkpmcCnRMFCH7CnJDI6p8nCw9HRUVAQqQQ1I!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/pnotice/NRCSEPRD676606__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064717.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064889.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064611.pdf__Not Found
+
+2017-08-10 08:49:52,585 - Energy1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Energy]
+2017-08-10 08:49:52,585 - Energy1 -INFO - 	
+2017-08-10 08:50:15,366 - Energy1 -INFO - Title of Prod is Energy | NRCS Arizona
+2017-08-10 08:50:15,366 - Energy1 -INFO - 	
+2017-08-10 08:50:15,381 - Energy1 -INFO - Title of Test is Energy and Arizona Agriculture
+2017-08-10 08:50:15,381 - Energy1 -INFO - 	
+2017-08-10 08:50:15,381 - Energy1 -INFO - Titles of both URLs are not same
+2017-08-10 08:50:15,554 - Energy1 -INFO - Left menu items on both Env: are not same
+2017-08-10 08:50:15,554 - Energy1 -INFO - 	
+2017-08-10 08:50:15,554 - Energy1 -INFO - 	
+2017-08-10 08:50:17,758 - Energy1 -INFO - 	
+2017-08-10 08:50:17,758 - Energy1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:50:17,767 - Energy1 -INFO - Total number of of Valid links in Prod are 8
+2017-08-10 08:50:17,768 - Energy1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 08:50:17,768 - Energy1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/energy/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247065&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247064&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247070&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247068&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247067&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247482&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247069&ext=pdf__OK
+
+2017-08-10 08:50:17,768 - Energy1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/energy/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH5Gal1qUXgl0QRQhSwpyQyOqfDwM0h0VFQEo_J2A/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247065.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247064.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247070.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247068.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247067.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247482.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247069.pdf__Not Found
+
+2017-08-10 08:50:26,934 - Air1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Air]
+2017-08-10 08:50:26,934 - Air1 -INFO - 	
+2017-08-10 08:50:37,621 - Air1 -INFO - Title of Prod is Air | NRCS Arizona
+2017-08-10 08:50:37,621 - Air1 -INFO - 	
+2017-08-10 08:50:37,632 - Air1 -INFO - Title of Test is Information About Air
+2017-08-10 08:50:37,632 - Air1 -INFO - 	
+2017-08-10 08:50:37,632 - Air1 -INFO - Titles of both URLs are not same
+2017-08-10 08:50:37,632 - Air1 -INFO - 	
+2017-08-10 08:50:37,632 - Air1 -INFO - 	
+2017-08-10 08:50:37,696 - Air1 -INFO - 	
+2017-08-10 08:50:54,399 - Air1 -INFO - 	
+2017-08-10 08:51:04,826 - ContactUs1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Contact Us]
+2017-08-10 08:51:04,826 - ContactUs1 -INFO - 	
+2017-08-10 08:51:21,842 - ContactUs1 -INFO - Title of Prod is Contact Us | NRCS Arizona
+2017-08-10 08:51:21,842 - ContactUs1 -INFO - 	
+2017-08-10 08:51:21,853 - ContactUs1 -INFO - Title of Test is Contact Us
+2017-08-10 08:51:21,853 - ContactUs1 -INFO - 	
+2017-08-10 08:51:21,853 - ContactUs1 -INFO - Titles of both URLs are not same
+2017-08-10 08:51:33,394 - SoilHealth1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Soils /, Soil Health]
+2017-08-10 08:51:33,394 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:44,442 - SoilHealth1 -INFO - Title of Prod is Soil Health | NRCS Arizona
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - Title of Test is Soil Health - Arizona
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - Titles of both URLs are not same
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:44,444 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:44,523 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:50,086 - SoilHealth1 -INFO - 	
+2017-08-10 08:51:50,086 - SoilHealth1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:51:50,095 - SoilHealth1 -INFO - Total number of of Valid links in Prod are 11
+2017-08-10 08:51:50,095 - SoilHealth1 -INFO - Total number of of Valid links in Test are 8
+2017-08-10 08:51:50,095 - SoilHealth1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/soils/health/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/soils/health/?cid=nrcseprd388629__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd376808&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd376808&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/soils/health/?cid=nrcseprd388629__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd376808&ext=pdf__OK
+https://www.youtube.com/watch?v=7Yql7u5Oyk8__OK
+http://www.proprofs.com/quiz-school/story.php?title=mte1mduwoaih7n__Moved Permanently
+http://www.proprofs.com/quiz-school/story.php?title=mte1mduwoaih7n__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/soils/health/?cid=stelprdb1250888__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/soils/health/?cid=stelprdb1250888__OK
+https://www.youtube.com/watch?v=Azb0So8M50Q__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/soils/health/?cid=stelprdb1143889__OK
+
+2017-08-10 08:51:50,095 - SoilHealth1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/health/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1Gcn5lTrB-RkZqYU5IBdEgUIbsKckMjqnycLD0dFRUBEwOxsg!!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/health/NRCSEPRD388629__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd376808.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd376808.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/health/NRCSEPRD388629__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd376808.pdf__Not Found
+https://www.youtube.com/watch?v=7Yql7u5Oyk8__OK
+http://www.proprofs.com/quiz-school/story.php?title=mte1mduwoaih7n__Moved Permanently
+http://www.proprofs.com/quiz-school/story.php?title=mte1mduwoaih7n__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/national/soils/health/STELPRDB1250888__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/soils/health/STELPRDB1250888__OK
+https://www.youtube.com/watch?v=Azb0So8M50Q__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/soils/health/STELPRDB1143889__OK
+
+2017-08-10 08:52:17,131 - RangePasture1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Land Use /, Range & Pasture]
+2017-08-10 08:52:17,131 - RangePasture1 -INFO - 	
+2017-08-10 08:52:22,740 - RangePasture1 -INFO - Title of Prod is Range & Pasture | NRCS Arizona
+2017-08-10 08:52:22,740 - RangePasture1 -INFO - 	
+2017-08-10 08:52:22,744 - RangePasture1 -INFO - Title of Test is Rangeland Monitoring
+2017-08-10 08:52:22,744 - RangePasture1 -INFO - 	
+2017-08-10 08:52:22,744 - RangePasture1 -INFO - Titles of both URLs are not same
+2017-08-10 08:52:22,744 - RangePasture1 -INFO - 	
+2017-08-10 08:52:22,744 - RangePasture1 -INFO - 	
+2017-08-10 08:52:22,886 - RangePasture1 -INFO - 	
+2017-08-10 08:52:24,433 - RangePasture1 -INFO - 	
+2017-08-10 08:52:34,494 - BasinOutlookReports1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Snow Survey /, Water Supply Products /, Basin Outlook Reports]
+2017-08-10 08:52:34,494 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:03,132 - BasinOutlookReports1 -INFO - Title of Prod is Basin Outlook Reports | NRCS Arizona
+2017-08-10 08:54:03,132 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:03,134 - BasinOutlookReports1 -INFO - Title of Test is Basin Outlook Reports
+2017-08-10 08:54:03,134 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:03,134 - BasinOutlookReports1 -INFO - Titles of both URLs are not same
+2017-08-10 08:54:03,134 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:03,134 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:03,244 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:41,010 - BasinOutlookReports1 -INFO - 	
+2017-08-10 08:54:41,010 - BasinOutlookReports1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:54:41,013 - BasinOutlookReports1 -INFO - Total number of of Valid links in Prod are 104
+2017-08-10 08:54:41,013 - BasinOutlookReports1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 08:54:41,013 - BasinOutlookReports1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/snow/waterproducts/basin/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1323479&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd908612&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310875&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1313570&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1317924&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311116&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1316383&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1320684&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd908612&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd427835&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd565606&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd846806&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd438606&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd677206&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd888608&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd335406&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1267134&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1270228&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1267134&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd329106&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1267134&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1268440&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1270872&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd331018&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1250913&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1242218&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1245184&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1245184&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247856&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1243192&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1247709&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1249260&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1249260&ext=pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064983.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064612.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064950.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064824.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064890.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064891.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064768.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064984.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064769.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064985.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064658.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064986.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064659.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064825.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064615.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064879.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064760.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064881.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064710.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064816.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064603.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064817.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064882.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064604.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064939.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064940.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064818.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064883.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064762.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064884.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064941.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064939.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064885.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064651.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064819.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064711.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064605.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064712.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064606.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064713.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064607.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064942.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064652.pdf__OK
+
+2017-08-10 08:54:41,014 - BasinOutlookReports1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/snow/waterproducts/basin/!ut/p/z1/jU9LCsIwFDxLDyAvsSpu03ajNAqKGN9GntXWgCYliRZ6eoN7W2c3MF9AUICG3rqhoK2hR-QnXJxTVuScz9hmmeZzJrIyk6ttwdmOw_ErYD8gGOA__gEBDsevxwrig6mTuWwAWwr3iTa1BUU9KG9sB6qjcHOts9dXFTyoC3lt4iocK26fB9WXot6LJPkA3Z60pg!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1323479.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd908612.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310875.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1313570.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1317924.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311116.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1316383.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1320684.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd908612.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd427835.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd565606.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd846806.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd438606.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd677206.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd888608.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd335406.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1267134.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1270228.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1267134.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd329106.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1267134.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1268440.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1270872.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd331018.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1250913.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1242218.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1245184.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1245184.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247856.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1243192.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1247709.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1249260.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1249260.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064983.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064612.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064950.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064824.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064890.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064891.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064768.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064984.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064769.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064985.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064658.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064986.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064659.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064825.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064615.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064879.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064719.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064602.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064937.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064718.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064709.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064759.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064760.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064881.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064710.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064816.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064603.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064988.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064817.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064882.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064604.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064939.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064940.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064818.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064883.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064762.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064884.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064941.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064939.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064885.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064651.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064819.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064711.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064605.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064712.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064606.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064713.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064607.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064942.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064652.pdf__Not Found
+
+2017-08-10 08:54:51,570 - RegionalConservationPartnershipProgram1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Farm Bill /, Regional Conservation Partnership Program]
+2017-08-10 08:54:51,570 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:25,227 - RegionalConservationPartnershipProgram1 -INFO - Title of Prod is Regional Conservation Partnership Program | NRCS Arizona
+2017-08-10 08:55:25,227 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:25,231 - RegionalConservationPartnershipProgram1 -INFO - Title of Test is Regional Conservation Partnership Program (RCPP)
+2017-08-10 08:55:25,231 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:25,231 - RegionalConservationPartnershipProgram1 -INFO - Titles of both URLs are not same
+2017-08-10 08:55:25,231 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:25,232 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:25,341 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:31,076 - RegionalConservationPartnershipProgram1 -INFO - 	
+2017-08-10 08:55:31,076 - RegionalConservationPartnershipProgram1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 08:55:31,084 - RegionalConservationPartnershipProgram1 -INFO - Total number of of Valid links in Prod are 13
+2017-08-10 08:55:31,084 - RegionalConservationPartnershipProgram1 -INFO - Total number of of Valid links in Test are 11
+2017-08-10 08:55:31,086 - RegionalConservationPartnershipProgram1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/farmbill/rcpp/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1296286&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1259856__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1259856__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1258502__OK
+http://youtu.be/eK2xya2DKoU__Found
+http://www.grants.gov/web/grants/view-opportunity.html?oppId=256049__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1253919__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254188__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1242732__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/farmbill/rcpp/?cid=stelprdb1254525__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254053__Moved Permanently
+http://www.example.com/__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254364__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254189__Moved Permanently
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1252536&ext=pdf__OK
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/farmbill/?cid=stelprdb1239904__OK
+
+2017-08-10 08:55:31,086 - RegionalConservationPartnershipProgram1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/farmbill/rcpp/!ut/p/z1/jU9LCsIwFDxLDyAvsSpu03ajNAqKGN9GnoXEQPMhFhc9vcG9rbMbmC8gKEBPb2tosMFTn_kNN_eSNTXnK3bYlvWaiaqt5O7YcHbicP0K2A8IBviPf0KA0_H7uYL8YJlkLQ1gpOG5sF4HUDSCiimYRO4FSlNyD9vnu6mLMW_CudroLmpshT6LovgAPF49-g!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1296286.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/rcpp/STELPRDB1259856__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1259856__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/rcpp/STELPRDB1258502__OK
+http://youtu.be/eK2xya2DKoU__Found
+http://www.grants.gov/web/grants/view-opportunity.html?oppId=256049__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/rcpp/STELPRDB1253919__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/rcpp/STELPRDB1254188__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/rcpp/STELPRDB1242732__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/farmbill/rcpp/STELPRDB1254525__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254053__Moved Permanently
+http://www.example.com/__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254364__Moved Permanently
+http://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/rcpp/?cid=stelprdb1254189__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1252536.pdf__Not Found
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+https://public.govdelivery.com/accounts/USDANRCS/subscriber/new?topic_id=USDANRCS_66__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/farmbill/STELPRDB1239904__OK
+
+2017-08-10 09:00:05,056 - FarmBill1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Farm Bill]
+2017-08-10 09:00:05,057 - FarmBill1 -INFO - 	
+2017-08-10 09:00:43,782 - FarmBill1 -INFO - Title of Prod is Farm Bill | NRCS Arizona
+2017-08-10 09:00:43,782 - FarmBill1 -INFO - 	
+2017-08-10 09:00:43,783 - FarmBill1 -INFO - Title of Test is Overview - NHQ
+2017-08-10 09:00:43,783 - FarmBill1 -INFO - 	
+2017-08-10 09:00:43,783 - FarmBill1 -INFO - Titles of both URLs are not same
+2017-08-10 09:00:43,783 - FarmBill1 -INFO - 	
+2017-08-10 09:00:43,783 - FarmBill1 -INFO - 	
+2017-08-10 09:00:43,824 - FarmBill1 -INFO - 	
+2017-08-10 09:00:50,345 - FarmBill1 -INFO - 	
+2017-08-10 09:01:03,764 - FeedbackForms1 -INFO - heading of Prod is: Feedback Form
+2017-08-10 09:01:03,882 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Please Select...
+2017-08-10 09:01:03,925 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Anonymous
+2017-08-10 09:01:03,943 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Civil Rights
+2017-08-10 09:01:03,959 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Conservation Practices
+2017-08-10 09:01:03,979 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Education
+2017-08-10 09:01:03,999 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Employment
+2017-08-10 09:01:04,014 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Financial Assistance
+2017-08-10 09:01:04,026 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Government Contracts
+2017-08-10 09:01:04,037 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are News and Events
+2017-08-10 09:01:04,051 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Organization and Contacts
+2017-08-10 09:01:04,062 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Other
+2017-08-10 09:01:04,070 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Soils
+2017-08-10 09:01:04,080 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Technical Information
+2017-08-10 09:01:04,090 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Volunteers
+2017-08-10 09:01:04,100 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Water Quality
+2017-08-10 09:01:04,110 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Web Applications (FOTG, TSP, etc)
+2017-08-10 09:01:04,120 - FeedbackForms1 -INFO - Select a Subject Area: in Prod are Website Problems
+2017-08-10 09:01:04,121 - FeedbackForms1 -INFO - Select a Subject Area: in prod are 17
+2017-08-10 09:02:38,458 - NewsReleases1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Newsroom /, News Releases]
+2017-08-10 09:02:38,459 - NewsReleases1 -INFO - 	
+2017-08-10 09:03:29,112 - Partners1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, People /, Partners]
+2017-08-10 09:03:29,113 - Partners1 -INFO - 	
+2017-08-10 09:03:51,214 - Partners1 -INFO - Title of Prod is Partners | NRCS Arizona
+2017-08-10 09:03:51,214 - Partners1 -INFO - 	
+2017-08-10 09:03:51,215 - Partners1 -INFO - Title of Test is Partnerships
+2017-08-10 09:03:51,215 - Partners1 -INFO - 	
+2017-08-10 09:03:51,216 - Partners1 -INFO - Titles of both URLs are not same
+2017-08-10 09:03:51,216 - Partners1 -INFO - 	
+2017-08-10 09:03:51,216 - Partners1 -INFO - 	
+2017-08-10 09:03:51,324 - Partners1 -INFO - 	
+2017-08-10 09:04:18,087 - Partners1 -INFO - 	
+2017-08-10 09:04:30,068 - DataAnalysis1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Snow Survey /, Snow Survey Products /, Data & Analysis]
+2017-08-10 09:04:30,069 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:44,968 - DataAnalysis1 -INFO - Title of Prod is Data & Analysis | NRCS Arizona
+2017-08-10 09:04:44,969 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:44,969 - DataAnalysis1 -INFO - Title of Test is Snow and Percipitation Data
+2017-08-10 09:04:44,969 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:44,970 - DataAnalysis1 -INFO - Titles of both URLs are not same
+2017-08-10 09:04:44,970 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:44,970 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:45,103 - DataAnalysis1 -INFO - 	
+2017-08-10 09:04:56,432 - DataAnalysis1 -INFO - 	
+2017-08-10 09:05:08,775 - OutreachAdvocacy1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Outreach & Advocacy]
+2017-08-10 09:05:08,776 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - Title of Prod is Outreach & Advocacy | NRCS Arizona
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - Title of Test is Socially Disadvantaged, Beginning and Limited Resource Farmers and Ranchers
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - Titles of both URLs are not same
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:20,877 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:20,927 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:26,706 - OutreachAdvocacy1 -INFO - 	
+2017-08-10 09:05:57,298 - Programs1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs]
+2017-08-10 09:05:57,298 - Programs1 -INFO - 	
+2017-08-10 09:05:58,338 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/#-OK
+2017-08-10 09:05:59,639 - Programs1 -INFO - https://public.govdelivery.com/accounts/USDANRCS/subscriber/topics?qsp=USDANRCS_3-OK
+2017-08-10 09:06:00,369 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/contact/?cid=nrcs144p2_065129-OK
+2017-08-10 09:06:03,059 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/financial/csp/?cid=nrcseprd1302677-OK
+2017-08-10 09:06:05,304 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/financial/eqip/?cid=nrcseprd1310886-OK
+2017-08-10 09:06:05,827 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/easements/acep/?cid=stelprdb1248212-OK
+2017-08-10 09:06:11,018 - Programs1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/farmbill/rcpp/?cid=stelprdb1254349-OK
+2017-08-10 09:06:11,140 - Programs1 -INFO - http://offices.sc.egov.usda.gov/locator/app?state=AZ-Found
+2017-08-10 09:06:11,218 - Programs1 -INFO - No of emails are 4
+2017-08-10 09:06:11,234 - Programs1 -INFO - Total number of of links in Prod are 8
+2017-08-10 09:06:11,234 - Programs1 -INFO - Total number of of Valid links in Prod are 7
+2017-08-10 09:06:11,422 - Programs1 -INFO - Left main menu elements are
+2017-08-10 09:06:11,422 - Programs1 -INFO - [Farm Bill, Financial Assistance, Easements, Landscape Initiatives, Landscape Planning]
+2017-08-10 09:06:11,422 - Programs1 -INFO - No of main menu elements 5
+2017-08-10 09:06:11,422 - Programs1 -INFO - 	
+2017-08-10 09:06:12,797 - Programs1 -INFO - Left sub menu elements are
+2017-08-10 09:06:12,797 - Programs1 -INFO - [Conservation Compliance, Regional Conservation Partnership Program, Conservation Innovation Grants, Conservation Stewardship Program, Environmental Quality Incentives Program, Emergency Watershed Protection Program, Agricultural Conservation Easement Program, Healthy Forests Reserve Program, Emergency Watershed Protection Program, Watershed Protection and Flood Prevention Program, Watershed Surveys and Planning, Watershed Operations, Watershed Rehabilitation]
+2017-08-10 09:06:12,798 - Programs1 -INFO - No of sub menu elements 13
+2017-08-10 09:06:12,830 - Programs1 -INFO - CIG Menu is present on the left Menu :Prod
+2017-08-10 09:06:12,830 - Programs1 -INFO - 	
+2017-08-10 09:06:12,861 - Programs1 -INFO - Areas Of Focus is present on the let side of page : Prod
+2017-08-10 09:06:12,861 - Programs1 -INFO - 	
+2017-08-10 09:06:12,877 - Programs1 -INFO - Agricultural Conservation Easement Program (ACEP), Conservation Reserve Program (CRP) is present under Areas Of Focus
+2017-08-10 09:06:12,877 - Programs1 -INFO - 	
+2017-08-10 09:06:12,908 - Programs1 -INFO - Ad for System for Award Management (Sam.gov) is present : Prod 
+2017-08-10 09:06:12,908 - Programs1 -INFO - 	
+2017-08-10 09:06:32,927 - GIS1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Data, Maps, & Analysis /, GIS]
+2017-08-10 09:06:32,927 - GIS1 -INFO - 	
+2017-08-10 09:06:42,193 - GIS1 -INFO - Title of Prod is GIS | NRCS Arizona
+2017-08-10 09:06:42,193 - GIS1 -INFO - 	
+2017-08-10 09:06:42,196 - GIS1 -INFO - Title of Test is Geographic Information Systems (GIS)
+2017-08-10 09:06:42,196 - GIS1 -INFO - 	
+2017-08-10 09:06:42,196 - GIS1 -INFO - Titles of both URLs are not same
+2017-08-10 09:06:42,196 - GIS1 -INFO - 	
+2017-08-10 09:06:42,196 - GIS1 -INFO - 	
+2017-08-10 09:06:42,259 - GIS1 -INFO - 	
+2017-08-10 09:06:55,027 - GIS1 -INFO - 	
+2017-08-10 09:06:55,027 - GIS1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:06:55,037 - GIS1 -INFO - Total number of of Valid links in Prod are 5
+2017-08-10 09:06:55,037 - GIS1 -INFO - Total number of of Valid links in Test are 4
+2017-08-10 09:06:55,038 - GIS1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/dma/gis/#__OK
+http://www.adobe.com/products/acrobat/readstep.html__Moved Permanently
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064782.pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/technical/dma/gis/?cid=nrcs144p2_065040__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/technical/dma/gis/?cid=nrcs144p2_065038__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/technical/dma/gis/?cid=nrcs144p2_065039__OK
+
+2017-08-10 09:06:55,038 - GIS1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/gis/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVKbqJ-RHpmMdA5UYRsLMgNjajycUwLdlRUBAAAFx_G/#__OK
+http://www.adobe.com/products/acrobat/readstep.html__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064782.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/gis/nrcs144p2_065040__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/gis/nrcs144p2_065038__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/dma/gis/nrcs144p2_065039__OK
+
+2017-08-10 09:07:27,399 - ConservationPlanning1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Conservation Planning]
+2017-08-10 09:07:27,399 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:36,962 - ConservationPlanning1 -INFO - Title of Prod is Conservation Planning | NRCS Arizona
+2017-08-10 09:07:36,962 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:36,965 - ConservationPlanning1 -INFO - Title of Test is Conservation Planning  We Care About Conservation
+2017-08-10 09:07:36,965 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:36,965 - ConservationPlanning1 -INFO - Titles of both URLs are not same
+2017-08-10 09:07:36,965 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:36,965 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:37,060 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:42,982 - ConservationPlanning1 -INFO - 	
+2017-08-10 09:07:42,982 - ConservationPlanning1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:07:42,987 - ConservationPlanning1 -INFO - Total number of of Valid links in Prod are 14
+2017-08-10 09:07:42,987 - ConservationPlanning1 -INFO - Total number of of Valid links in Test are 13
+2017-08-10 09:07:42,987 - ConservationPlanning1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/cp/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065194__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/contact/local/?cid=nrcs144p2_065131__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064780.pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/contact/local/?cid=nrcs144p2_065131__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065117__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065118__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/stories/?cid=nrcs144p2_065119__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065177__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065158__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065172__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065179__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065186__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/newsroom/releases/?cid=nrcs144p2_065174__OK
+
+2017-08-10 09:07:42,987 - ConservationPlanning1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/cp/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVyAdAhUYTsKsgNjajycbL0dFRUBACL6Qnp/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065194__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/contact/local/nrcs144p2_065131__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064780.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/contact/local/nrcs144p2_065131__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065117__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065118__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/stories/nrcs144p2_065119__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065177__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065158__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065172__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065179__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065186__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/newsroom/releases/nrcs144p2_065174__OK
+
+2017-08-10 09:08:10,176 - SnowSurveyProducts1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Snow Survey /, Snow Survey Products]
+2017-08-10 09:08:10,192 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:24,681 - SnowSurveyProducts1 -INFO - Title of Prod is Snow Survey Products | NRCS Arizona
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - Title of Test is About Snow Surveys
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - Titles of both URLs are not same
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:24,684 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:24,747 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:36,451 - SnowSurveyProducts1 -INFO - 	
+2017-08-10 09:08:44,667 - Careers1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Careers]
+2017-08-10 09:08:44,667 - Careers1 -INFO - 	
+2017-08-10 09:08:59,025 - Careers1 -INFO - Title of Prod is Careers | NRCS Arizona
+2017-08-10 09:08:59,025 - Careers1 -INFO - 	
+2017-08-10 09:08:59,034 - Careers1 -INFO - Title of Test is Career Resources
+2017-08-10 09:08:59,034 - Careers1 -INFO - 	
+2017-08-10 09:08:59,034 - Careers1 -INFO - Titles of both URLs are not same
+2017-08-10 09:08:59,034 - Careers1 -INFO - 	
+2017-08-10 09:08:59,035 - Careers1 -INFO - 	
+2017-08-10 09:08:59,144 - Careers1 -INFO - 	
+2017-08-10 09:09:11,910 - Careers1 -INFO - 	
+2017-08-10 09:09:11,910 - Careers1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:09:11,919 - Careers1 -INFO - Total number of of Valid links in Prod are 9
+2017-08-10 09:09:11,919 - Careers1 -INFO - Total number of of Valid links in Test are 2
+2017-08-10 09:09:11,920 - Careers1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/about/careers/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289857&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289853&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289856&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289855&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/careers/?cid=stelprdb1083402__OK
+http://www.usajobs.gov/__Moved Permanently
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289854&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289861&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1289862&ext=pdf__OK
+
+2017-08-10 09:09:11,921 - Careers1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/about/careers/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVgFxEn5pSX6EcmJRampRcVAl0QRsqwgNzSiysfJ0tNRUREAjR0LQg!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289857.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289853.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289856.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289855.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/national/careers/STELPRDB1083402__OK
+http://www.usajobs.gov/__Moved Permanently
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289854.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289861.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1289862.pdf__Not Found
+
+2017-08-10 09:09:42,806 - TribalAssistance1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Outreach & Advocacy /, Tribal Assistance]
+2017-08-10 09:09:42,806 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:00,031 - TribalAssistance1 -INFO - Title of Prod is Tribal Assistance | NRCS Arizona
+2017-08-10 09:10:00,031 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:00,033 - TribalAssistance1 -INFO - Title of Test is Conservation Assistance for Tribes
+2017-08-10 09:10:00,033 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:00,033 - TribalAssistance1 -INFO - Titles of both URLs are not same
+2017-08-10 09:10:00,033 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:00,033 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:00,097 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:06,659 - TribalAssistance1 -INFO - 	
+2017-08-10 09:10:06,659 - TribalAssistance1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:10:06,667 - TribalAssistance1 -INFO - Total number of of Valid links in Prod are 9
+2017-08-10 09:10:06,668 - TribalAssistance1 -INFO - Total number of of Valid links in Test are 6
+2017-08-10 09:10:06,668 - TribalAssistance1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/about/outreach/tribal/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/tribal/?cid=stelprdb1242434__OK
+http://get.adobe.com/reader/__Moved Permanently
+http://content.govdelivery.com/attachments/USDANRCS/2014/02/26/file_attachments/273662/IndigenousStewardshipMethods.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_034195.pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1242129&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/tribal/?cid=stelprdb1242126__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/tribal/?cid=stelprdb1242124__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/about/outreach/tribal/?cid=stelprdb1242127__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd392018&ext=pdf__OK
+
+2017-08-10 09:10:06,668 - TribalAssistance1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/tribal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVgFxEn5pSX6EUCiKDUxOUM_oqQoMwno53D9KEK2FuSGRlT5OKYFOyoqAgCSO8lC/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/tribal/STELPRDB1242434__OK
+http://content.govdelivery.com/attachments/USDANRCS/2014/02/26/file_attachments/273662/IndigenousStewardshipMethods.pdf__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_034195.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1242129.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/tribal/STELPRDB1242126__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/tribal/STELPRDB1242124__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/about/outreach/tribal/STELPRDB1242127__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd392018.pdf__Not Found
+
+2017-08-10 09:10:15,543 - LandscapeInitiatives1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Landscape Initiatives]
+2017-08-10 09:10:15,543 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:20,915 - LandscapeInitiatives1 -INFO - Title of Prod is Landscape Initiatives | NRCS Arizona
+2017-08-10 09:10:20,915 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:20,920 - LandscapeInitiatives1 -INFO - Title of Test is Landscape Initiatives
+2017-08-10 09:10:20,920 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:20,920 - LandscapeInitiatives1 -INFO - Titles of both URLs are not same
+2017-08-10 09:10:20,920 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:20,920 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:20,969 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - 	
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - Total number of of Valid links in Prod are 3
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - Total number of of Valid links in Test are 2
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/landscape/#__OK
+https://www.nrcs.usda.gov/Internet/FSE_MEDIA/stelprdb1047670.jpg__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/initiatives__OK
+
+2017-08-10 09:10:21,891 - LandscapeInitiatives1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/landscape/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1FQlJ9elJhbrB-Rk5iXUpycWJAKdE4UIRsLckMjqnycLD0dFRUBzXSSwQ!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_MEDIA/stelprdb1047670.jpg__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/main/national/programs/initiatives__OK
+
+2017-08-10 09:10:34,550 - Engineering1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Engineering]
+2017-08-10 09:10:34,550 - Engineering1 -INFO - 	
+2017-08-10 09:10:56,751 - Engineering1 -INFO - Title of Prod is Engineering | NRCS Arizona
+2017-08-10 09:10:56,751 - Engineering1 -INFO - 	
+2017-08-10 09:10:56,758 - Engineering1 -INFO - Title of Test is Engineering
+2017-08-10 09:10:56,758 - Engineering1 -INFO - 	
+2017-08-10 09:10:56,758 - Engineering1 -INFO - Titles of both URLs are not same
+2017-08-10 09:10:56,758 - Engineering1 -INFO - 	
+2017-08-10 09:10:56,758 - Engineering1 -INFO - 	
+2017-08-10 09:10:56,822 - Engineering1 -INFO - 	
+2017-08-10 09:11:09,207 - Engineering1 -INFO - 	
+2017-08-10 09:11:56,830 - Volunteers1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, People /, Volunteers]
+2017-08-10 09:11:56,830 - Volunteers1 -INFO - 	
+2017-08-10 09:12:04,002 - Volunteers1 -INFO - Title of Prod is Volunteers | NRCS Arizona
+2017-08-10 09:12:04,002 - Volunteers1 -INFO - 	
+2017-08-10 09:12:04,005 - Volunteers1 -INFO - Title of Test is Volunteer to help Arizona's natural resources
+2017-08-10 09:12:04,005 - Volunteers1 -INFO - 	
+2017-08-10 09:12:04,005 - Volunteers1 -INFO - Titles of both URLs are not same
+2017-08-10 09:12:04,005 - Volunteers1 -INFO - 	
+2017-08-10 09:12:04,005 - Volunteers1 -INFO - 	
+2017-08-10 09:12:04,054 - Volunteers1 -INFO - 	
+2017-08-10 09:12:05,351 - Volunteers1 -INFO - 	
+2017-08-10 09:12:05,351 - Volunteers1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:12:05,355 - Volunteers1 -INFO - Total number of of Valid links in Prod are 4
+2017-08-10 09:12:05,355 - Volunteers1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 09:12:05,355 - Volunteers1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/people/volunteers/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1309422&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1309421&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1309423&ext=pdf__OK
+
+2017-08-10 09:12:05,356 - Volunteers1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/people/volunteers/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GQml-Qk6ofUZafU5pXkppaVAx0TRQhCwtyQyOqfJwsPR0VFQHZqpRq/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1309422.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1309421.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1309423.pdf__Not Found
+
+2017-08-10 09:12:33,185 - STCAgenda1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, State Technical Committee /, STC Agenda]
+2017-08-10 09:12:33,185 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:47,404 - STCAgenda1 -INFO - Title of Prod is STC Agenda | NRCS Arizona
+2017-08-10 09:12:47,404 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:47,407 - STCAgenda1 -INFO - Title of Test is State Technical Advisory Committee Agenda
+2017-08-10 09:12:47,407 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:47,407 - STCAgenda1 -INFO - Titles of both URLs are not same
+2017-08-10 09:12:47,407 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:47,407 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:47,471 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:58,164 - STCAgenda1 -INFO - 	
+2017-08-10 09:12:58,164 - STCAgenda1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:12:58,171 - STCAgenda1 -INFO - Total number of of Valid links in Prod are 2
+2017-08-10 09:12:58,171 - STCAgenda1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 09:12:58,171 - STCAgenda1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/stc/agenda/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1324234&ext=pdf__OK
+
+2017-08-10 09:12:58,172 - STCAgenda1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/stc/agenda/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVxSTJQLD01LyUR6KIoQpYW5IZGVPk4pgU7KioCAEsGB78!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1324234.pdf__Not Found
+
+2017-08-10 09:13:07,994 - ConservationCompliance1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Farm Bill /, Conservation Compliance]
+2017-08-10 09:13:07,994 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:24,089 - ConservationCompliance1 -INFO - Title of Prod is Conservation Compliance | NRCS Arizona
+2017-08-10 09:13:24,089 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:24,096 - ConservationCompliance1 -INFO - Title of Test is Conservation Compliance
+2017-08-10 09:13:24,096 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:24,096 - ConservationCompliance1 -INFO - Titles of both URLs are not same
+2017-08-10 09:13:24,096 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:24,096 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:24,175 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:27,920 - ConservationCompliance1 -INFO - 	
+2017-08-10 09:13:36,728 - ConservationInnovationGrants1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Financial Assistance /, Conservation Innovation Grants]
+2017-08-10 09:13:36,728 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:40,763 - ConservationInnovationGrants1 -INFO - Title of Prod is Conservation Innovation Grants | NRCS Arizona
+2017-08-10 09:13:40,763 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:40,765 - ConservationInnovationGrants1 -INFO - Title of Test is Conservation Innovation Grants (CIG)
+2017-08-10 09:13:40,765 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:40,765 - ConservationInnovationGrants1 -INFO - Titles of both URLs are not same
+2017-08-10 09:13:40,765 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:40,765 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:40,829 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:41,532 - ConservationInnovationGrants1 -INFO - 	
+2017-08-10 09:13:51,637 - EnvironmentalQualityIncentivesProgram1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Financial Assistance /, Environmental Quality Incentives Program]
+2017-08-10 09:13:51,637 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:37,505 - EnvironmentalQualityIncentivesProgram1 -INFO - Title of Prod is Environmental Quality Incentives Program | NRCS Arizona
+2017-08-10 09:14:37,505 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:37,505 - EnvironmentalQualityIncentivesProgram1 -INFO - Title of Test is Environmental Quality Incentives Program (EQIP) FY2017
+2017-08-10 09:14:37,510 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:37,510 - EnvironmentalQualityIncentivesProgram1 -INFO - Titles of both URLs are not same
+2017-08-10 09:14:37,510 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:37,510 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:37,573 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:51,331 - EnvironmentalQualityIncentivesProgram1 -INFO - 	
+2017-08-10 09:14:51,331 - EnvironmentalQualityIncentivesProgram1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:14:51,340 - EnvironmentalQualityIncentivesProgram1 -INFO - Total number of of Valid links in Prod are 37
+2017-08-10 09:14:51,340 - EnvironmentalQualityIncentivesProgram1 -INFO - Total number of of Valid links in Test are 7
+2017-08-10 09:14:51,341 - EnvironmentalQualityIncentivesProgram1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/financial/eqip/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/financial/eqip/?cid=nrcseprd401010__OK
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://offices.sc.egov.usda.gov/locator/app__Found
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/financial/eqip/?cid=nrcseprd401010__OK
+http://offices.sc.egov.usda.gov/locator/app__Found
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/financial/eqip/?cid=nrcseprd1310971__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310890&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310894&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310887&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310893&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310891&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310892&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310889&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1310888&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311903&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311888&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311893&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311898&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304395&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311889&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311894&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311899&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304396&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311890&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311896&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311900&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304397&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311892&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311897&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311902&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304399&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311891&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311895&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311901&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1304398&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=stelprdb1266782&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/?cid=stelprdb1252410__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/people/outreach/slbfr/?cid=nrcsdev11_001040__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/farmbill/?cid=stelprdb1242382__OK
+
+2017-08-10 09:14:51,341 - EnvironmentalQualityIncentivesProgram1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/eqip/!ut/p/z1/jU9LCsIwFDxLDyAvsSpu03SjNAqKGN9GHmJiwCYxFhc9vdG9rbMbmC8gaEBPL2epc8HTPfMTLs4lqyXnM7ZZlnLORNVUarWtOdtxOH4F7AcEA_zHPyDA4fj1WEF-ME1KKgsYqbtNnDcBNPWgYwo2UfsEbZwnf3Gfv9eHi3kUjvXG9qD7Rpi9KIo3bENJqg!!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/eqip/NRCSEPRD401010__OK
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://offices.sc.egov.usda.gov/locator/app__Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/eqip/NRCSEPRD401010__OK
+http://offices.sc.egov.usda.gov/locator/app__Found
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://www.nrcs.usda.gov/getstarted__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/eqip/NRCSEPRD1310971__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310890.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310894.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310887.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310893.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310891.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310892.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310889.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1310888.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311903.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311888.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311893.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311898.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304395.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311889.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311894.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311899.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304396.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311890.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311896.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311900.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304397.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311892.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311897.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311902.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304399.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311891.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311895.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311901.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1304398.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/stelprdb1266782.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/STELPRDB1252410__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/people/outreach/slbfr/NRCSDEV11_001040__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/farmbill/STELPRDB1242382__OK
+
+2017-08-10 09:15:00,236 - StateTechnicalCommittee1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, State Technical Committee]
+2017-08-10 09:15:00,236 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:14,116 - StateTechnicalCommittee1 -INFO - Title of Prod is State Technical Committee | NRCS Arizona
+2017-08-10 09:15:14,116 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:14,118 - StateTechnicalCommittee1 -INFO - Title of Test is State Technical Committee
+2017-08-10 09:15:14,118 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:14,118 - StateTechnicalCommittee1 -INFO - Titles of both URLs are not same
+2017-08-10 09:15:14,118 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:14,118 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:14,182 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:24,945 - StateTechnicalCommittee1 -INFO - 	
+2017-08-10 09:15:24,945 - StateTechnicalCommittee1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:15:24,953 - StateTechnicalCommittee1 -INFO - Total number of of Valid links in Prod are 2
+2017-08-10 09:15:24,953 - StateTechnicalCommittee1 -INFO - Total number of of Valid links in Test are 1
+2017-08-10 09:15:24,953 - StateTechnicalCommittee1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/technical/stc/#__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1324060&ext=pdf__OK
+
+2017-08-10 09:15:24,953 - StateTechnicalCommittee1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/technical/stc/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1GSmpyRl5kM8mVxSTLQJVGELCvIDY2o8nGy9HRUVAQAcAiR4g!!/#__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1324060.pdf__Not Found
+
+2017-08-10 09:15:33,076 - EventsDeadlines1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Newsroom /, Events & Deadlines]
+2017-08-10 09:15:33,076 - EventsDeadlines1 -INFO - 	
+2017-08-10 09:15:33,092 - EventsDeadlines1 -INFO - NRCS_RSS_Feed is displayed on the left side : Prod 
+2017-08-10 09:15:33,951 - EventsDeadlines1 -INFO - Months in Prod are [Select Month..., August 2017, July 2017, June 2017, May 2017, April 2017, March 2017, February 2017, January 2017, December 2016, November 2016, October 2016, September 2016, August 2016, July 2016, June 2016, May 2016, April 2016, March 2016, February 2016, January 2016, December 2015, November 2015, October 2015, September 2015, August 2015, July 2015, June 2015, May 2015, April 2015, March 2015, February 2015, January 2015, December 2014, November 2014, October 2014, September 2014, August 2014, July 2014, June 2014, May 2014, April 2014, March 2014, February 2014, January 2014, December 2013, November 2013, October 2013, September 2013, August 2013, July 2013, June 2013, May 2013, April 2013, March 2013, February 2013, January 2013, December 2012, November 2012, October 2012, September 2012, August 2012, July 2012, June 2012, May 2012, April 2012, March 2012, February 2012, January 2012, December 2011, November 2011, October 2011, September 2011, August 2011, July 2011, June 2011, May 2011, April 2011, March 2011, February 2011, January 2011]
+2017-08-10 09:16:03,168 - EventsDeadlines1 -INFO - Title of Prod is Events & Deadlines | NRCS Arizona
+2017-08-10 09:16:03,168 - EventsDeadlines1 -INFO - 	
+2017-08-10 09:16:03,178 - EventsDeadlines1 -INFO - Title of Test is index
+2017-08-10 09:16:03,178 - EventsDeadlines1 -INFO - 	
+2017-08-10 09:16:03,178 - EventsDeadlines1 -INFO - Titles of both Env: are not same
+2017-08-10 09:16:03,178 - EventsDeadlines1 -INFO - 	
+2017-08-10 09:16:21,764 - SmallLimitedandBeginningFarmersRanchers1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, About Us /, Outreach & Advocacy /, Small & Limited and Beginning Farmers & Ranchers]
+2017-08-10 09:16:21,764 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:25,436 - SmallLimitedandBeginningFarmersRanchers1 -INFO - Title of Prod is Small & Limited and Beginning Farmers & Ranchers | NRCS Arizona
+2017-08-10 09:16:25,436 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:25,439 - SmallLimitedandBeginningFarmersRanchers1 -INFO - Title of Test is Small & Limited and Beginning Farmers & Ranchers
+2017-08-10 09:16:25,439 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:25,439 - SmallLimitedandBeginningFarmersRanchers1 -INFO - Titles of both URLs are not same
+2017-08-10 09:16:25,439 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:25,439 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:25,518 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:36,301 - SmallLimitedandBeginningFarmersRanchers1 -INFO - 	
+2017-08-10 09:16:44,238 - TechnicalServiceProviders1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Conservation Planning /, Technical Service Providers]
+2017-08-10 09:16:44,238 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:16:57,325 - TechnicalServiceProviders1 -INFO - Title of Prod is Technical Service Providers | NRCS Arizona
+2017-08-10 09:16:57,325 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:16:57,330 - TechnicalServiceProviders1 -INFO - Title of Test is Technical Service Providers Overview
+2017-08-10 09:16:57,330 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:16:57,330 - TechnicalServiceProviders1 -INFO - Titles of both URLs are not same
+2017-08-10 09:16:57,330 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:16:57,330 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:16:57,393 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:17:07,981 - TechnicalServiceProviders1 -INFO - 	
+2017-08-10 09:17:22,198 - Home_Page1 -INFO - Main menu elements under Topics in Prod are [Technical Resources, Soils, Water, Snow Survey, Air, Plants & Animals, Energy, People]
+2017-08-10 09:17:23,385 - Home_Page1 -INFO - 	
+2017-08-10 09:17:24,181 - Home_Page1 -INFO - Sub menu elements under Topics in Prod are [Conservation Planning, Data, Maps, & Analysis, Ecological Science, Engineering, Land Use, State Technical Committee, Soil Health, Soil Surveys, Watersheds, Water Resources, Snow Survey Products, Water Supply Products, Air Quality, Partners, Teachers and Students, Volunteers, NRCS Employees]
+2017-08-10 09:17:24,384 - Home_Page1 -INFO - Elements under Programs in Prod are[Farm Bill, Financial Assistance, Easements, Landscape Initiatives, Landscape Planning]
+2017-08-10 09:17:24,665 - Home_Page1 -INFO - Elements under NewsRoom in Prod are[News Releases, Events & Deadlines, Features, Photos and Videos, Public Notices, Publications & Fact Sheets, Success Stories]
+2017-08-10 09:17:24,834 - Home_Page1 -INFO - Elements under ContactUS in Prod are[Local Service Centers, State Office, Feedback Forms]
+2017-08-10 09:17:44,300 - Home_Page1 -INFO - Main menu elements under Topics in Test are[Technical Resources, Soils, Water, Snow Survey, Air, Plants & Animals, Energy, People]
+2017-08-10 09:18:23,595 - ConservationStewardshipProgram1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Financial Assistance /, Conservation Stewardship Program]
+2017-08-10 09:18:23,595 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:18:54,122 - ConservationStewardshipProgram1 -INFO - Title of Prod is Conservation Stewardship Program | NRCS Arizona
+2017-08-10 09:18:54,122 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:18:54,125 - ConservationStewardshipProgram1 -INFO - Title of Test is FY2017 Conservation Stewardship Program
+2017-08-10 09:18:54,125 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:18:54,125 - ConservationStewardshipProgram1 -INFO - Titles of both URLs are not same
+2017-08-10 09:18:54,125 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:18:54,125 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:18:54,173 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:19:03,501 - ConservationStewardshipProgram1 -INFO - 	
+2017-08-10 09:19:03,501 - ConservationStewardshipProgram1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:19:03,505 - ConservationStewardshipProgram1 -INFO - Total number of of Valid links in Prod are 35
+2017-08-10 09:19:03,505 - ConservationStewardshipProgram1 -INFO - Total number of of Valid links in Test are 11
+2017-08-10 09:19:03,505 - ConservationStewardshipProgram1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/financial/csp/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/csp/?cid=nrcseprd1000001__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1288650&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1288534&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297667&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297677&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297676&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297669&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297683&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297666&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=NRCSEPRD1297668&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/csp/?cid=nrcseprd1000001__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/csp/?cid=nrcseprd1000001__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/cspsearch/or/programs/financial/csp/__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/csp/?cid=nrcseprd1000001__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/cspsearch/or/programs/financial/csp/__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/programs/financial/csp/?cid=nrcseprd1000001__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311906&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311905&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311907&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311908&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311909&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311912&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311913&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311914&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311915&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311916&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311917&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311918&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311919&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311920&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1311921&ext=pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+
+2017-08-10 09:19:03,505 - ConservationStewardshipProgram1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/financial/csp/!ut/p/z1/jU9LCsIwFDxLDyAvsSpu03SjNAqKGN9GHoXEgE1CWlz09Eb3ts5uYL6AoAE9vZylwQVPz8xvuLmXrJacr9hhW8o1E1VTqd2x5uzE4foVsB8QDPAf_4QAp-P3cwX5wTIpqSxgpOGxcN4E0DSCjinYRF0P2jhPvnWfv20f8yacq43dRY-NMGdRFG9vGI-k/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/financial/csp/NRCSEPRD1000001__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1288650.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1288534.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297667.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297677.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297676.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297669.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297683.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297666.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/NRCSEPRD1297668.pdf__Not Found
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/financial/csp/NRCSEPRD1000001__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/financial/csp/NRCSEPRD1000001__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/cspsearch/or/programs/financial/csp/__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/financial/csp/NRCSEPRD1000001__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/cspsearch/or/programs/financial/csp/__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/national/programs/financial/csp/NRCSEPRD1000001__OK
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311906.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311905.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311907.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311908.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311909.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311912.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311913.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311914.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311915.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311916.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311917.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311918.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311919.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311920.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcseprd1311921.pdf__Not Found
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/national/programs/financial/csp/__OK
+
+2017-08-10 09:19:14,023 - FinancialAssistance1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Financial Assistance]
+2017-08-10 09:19:14,023 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:22,070 - FinancialAssistance1 -INFO - Title of Prod is Financial Assistance | NRCS Arizona
+2017-08-10 09:19:22,070 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:22,083 - FinancialAssistance1 -INFO - Title of Test is Financial Assistance
+2017-08-10 09:19:22,083 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:22,083 - FinancialAssistance1 -INFO - Titles of both URLs are not same
+2017-08-10 09:19:22,083 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:22,083 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:22,178 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:26,271 - FinancialAssistance1 -INFO - 	
+2017-08-10 09:19:34,445 - ConservationTechnicalAssistance1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Conservation Planning /, Conservation Technical Assistance]
+2017-08-10 09:19:34,445 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:47,456 - ConservationTechnicalAssistance1 -INFO - Title of Prod is Conservation Technical Assistance | NRCS Arizona
+2017-08-10 09:19:47,456 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:47,459 - ConservationTechnicalAssistance1 -INFO - Title of Test is Conservation Technical Assistance Overview
+2017-08-10 09:19:47,459 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:47,459 - ConservationTechnicalAssistance1 -INFO - Titles of both URLs are not same
+2017-08-10 09:19:47,459 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:47,459 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:47,523 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:19:58,116 - ConservationTechnicalAssistance1 -INFO - 	
+2017-08-10 09:20:05,987 - WaterSupplyProducts1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Snow Survey /, Water Supply Products]
+2017-08-10 09:20:05,987 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:21,925 - WaterSupplyProducts1 -INFO - Title of Prod is Water Supply Products | NRCS Arizona
+2017-08-10 09:20:21,925 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:21,928 - WaterSupplyProducts1 -INFO - Title of Test is Snow Survey Water Supply and Reservoir Storage Products
+2017-08-10 09:20:21,928 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:21,928 - WaterSupplyProducts1 -INFO - Titles of both URLs are not same
+2017-08-10 09:20:21,928 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:21,928 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:21,960 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:35,851 - WaterSupplyProducts1 -INFO - 	
+2017-08-10 09:20:44,472 - SoilSurveys1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Soils /, Soil Surveys]
+2017-08-10 09:20:44,472 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:01,426 - SoilSurveys1 -INFO - Title of Prod is Soil Surveys | NRCS Arizona
+2017-08-10 09:21:01,426 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:01,440 - SoilSurveys1 -INFO - Title of Test is Soil Survey
+2017-08-10 09:21:01,440 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:01,440 - SoilSurveys1 -INFO - Titles of both URLs are not same
+2017-08-10 09:21:01,440 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:01,440 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:01,489 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:05,396 - SoilSurveys1 -INFO - 	
+2017-08-10 09:21:05,396 - SoilSurveys1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:21:05,405 - SoilSurveys1 -INFO - Total number of of Valid links in Prod are 9
+2017-08-10 09:21:05,405 - SoilSurveys1 -INFO - Total number of of Valid links in Test are 5
+2017-08-10 09:21:05,405 - SoilSurveys1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/soils/surveys/#__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/soils/surveys/?cid=nrcs144p2_065084__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/contact/state/?cid=nrcs144p2_065135__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/soils/surveys/get.adobe.com/reader/__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064630.pdf__OK
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064631.pdf__OK
+http://websoilsurvey.nrcs.usda.gov/app/__Found
+https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064631.pdf__OK
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/office/ssr8/?cid=nrcs144p2_065086__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=AZ__Moved Permanently
+http://soils.usda.gov/__Moved Permanently
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/soils/surveys/?cid=nrcs144p2_065083__OK
+http://websoilsurvey.nrcs.usda.gov/app/__Found
+
+2017-08-10 09:21:05,405 - SoilSurveys1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/surveys/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1Gcn5lTDKRKi8pSK4uBLokiZFlBbmhElY-TpaejoiIASa8PYQ!!/#__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/surveys/nrcs144p2_065084__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/contact/state/nrcs144p2_065135__OK
+http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/surveys/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1Gcn5lTDKRKi8pSK4uBLokiZFlBbmhElY-TpaejoiIASa8PYQ!!/get.adobe.com/reader/__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064630.pdf__Not Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064631.pdf__Not Found
+http://websoilsurvey.nrcs.usda.gov/app/__Found
+http://nrcsdak0004:10039/Internet/FSE_DOCUMENTS/nrcs144p2_064631.pdf__Not Found
+http://nrcsdak0004:10039/wps/portal/nrcs/soils/survey/office/ssr8/NRCS144P2_065086__OK
+http://www.nrcs.usda.gov/wps/portal/nrcs/surveylist/soils/survey/state/?stateId=AZ__Moved Permanently
+http://soils.usda.gov/__Moved Permanently
+http://nrcsdak0004:10039/wps/portal/nrcs/az/soils/surveys/nrcs144p2_065083__OK
+http://websoilsurvey.nrcs.usda.gov/app/__Found
+
+2017-08-10 09:21:15,683 - WatershedRehabilitation1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Programs /, Landscape Planning /, Watershed Rehabilitation]
+2017-08-10 09:21:15,683 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:16,089 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/main/az/programs/planning/wr/#-OK
+2017-08-10 09:21:16,574 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/Internet/FSE_DOCUMENTS/nrcs144p2_064957.pdf-OK
+2017-08-10 09:21:18,213 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065024-OK
+2017-08-10 09:21:19,782 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065019-OK
+2017-08-10 09:21:21,719 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065020-OK
+2017-08-10 09:21:23,153 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065021-OK
+2017-08-10 09:21:25,189 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065022-OK
+2017-08-10 09:21:26,742 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065023-OK
+2017-08-10 09:21:28,739 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065017-OK
+2017-08-10 09:21:30,940 - WatershedRehabilitation1 -INFO - https://www.nrcs.usda.gov/wps/portal/nrcs/detail/az/programs/planning/wr/?cid=nrcs144p2_065018-OK
+2017-08-10 09:21:30,960 - WatershedRehabilitation1 -INFO - No of emails are 0
+2017-08-10 09:21:30,960 - WatershedRehabilitation1 -INFO - Total number of of links in  Prod are 10
+2017-08-10 09:21:30,960 - WatershedRehabilitation1 -INFO - Total number of of Valid links in  Prod are 10
+2017-08-10 09:21:34,304 - WatershedRehabilitation1 -INFO - Title of Prod is Watershed Rehabilitation | NRCS Arizona
+2017-08-10 09:21:34,304 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - Title of Test is Watershed Rehabilitation Information
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - Heading of Prod is Watershed Rehabilitation
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - Heading of Test is Watershed Rehabilitation
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - Heading of both Env: are same
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,307 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,370 - WatershedRehabilitation1 -INFO - The breadcrumb of Test is [You are Here:, Home /, Programs /, Landscape Planning /, Watershed Rehabilitation]
+2017-08-10 09:21:34,370 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,370 - WatershedRehabilitation1 -INFO - Breadcrumb on both Env: are same
+2017-08-10 09:21:34,370 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:34,839 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zijQ1cnA0NTQz8LIydTQ0cnXycfD39XQwNggz1w8EKDHAARwP9KGL041EQhd94L0IWAH1gVOTr7JuuH1WQWJKhm5mXlq8fkVilH1FQlJ9elJhbDGTlJOblZeal60eUFwFdFEXI0oLc0IgqH8e0YEdFRQD3DsvL/#-OK
+2017-08-10 09:21:35,089 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/document/nrcs144p2_064957 - Not Found
+2017-08-10 09:21:35,526 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065024-OK
+2017-08-10 09:21:35,996 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065019-OK
+2017-08-10 09:21:36,434 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065020-OK
+2017-08-10 09:21:36,949 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065021-OK
+2017-08-10 09:21:37,382 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065022-OK
+2017-08-10 09:21:37,882 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065023-OK
+2017-08-10 09:21:38,335 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065017-OK
+2017-08-10 09:21:38,816 - WatershedRehabilitation1 -INFO - http://nrcsdak0004:10039/wps/portal/nrcs/az/programs/planning/wr/nrcs144p2_065018-OK
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - No of links in Test are 10
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - No of email  links in Test are 0
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - Total number of of Valid links in Test are 9
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - Both Env: has got same number of internal and external links
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - Both Env: has got same number of email links
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - No of valid links doesnt match in both env:
+2017-08-10 09:21:38,847 - WatershedRehabilitation1 -INFO - 	
+2017-08-10 09:22:05,455 - StateOffice1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Contact Us /, State Office]
+2017-08-10 09:22:05,455 - StateOffice1 -INFO - 	
+2017-08-10 09:22:13,174 - StateOffice1 -INFO - Title of Prod is State Office | NRCS Arizona
+2017-08-10 09:22:13,174 - StateOffice1 -INFO - 	
+2017-08-10 09:22:13,176 - StateOffice1 -INFO - Title of Test is State Office Contact
+2017-08-10 09:22:13,176 - StateOffice1 -INFO - 	
+2017-08-10 09:22:13,176 - StateOffice1 -INFO - Titles of both URLs are not same
+2017-08-10 09:22:13,176 - StateOffice1 -INFO - 	
+2017-08-10 09:22:13,176 - StateOffice1 -INFO - 	
+2017-08-10 09:22:13,240 - StateOffice1 -INFO - 	
+2017-08-10 09:22:31,795 - StateOffice1 -INFO - 	
+2017-08-10 09:22:58,061 - LandUse1 -INFO - The breadcrumb of Prod is [You are Here:, Home /, Technical Resources /, Land Use]
+2017-08-10 09:22:58,061 - LandUse1 -INFO - 	
+2017-08-10 09:23:01,526 - LandUse1 -INFO - Title of Prod is Land Use | NRCS Arizona
+2017-08-10 09:23:01,526 - LandUse1 -INFO - 	
+2017-08-10 09:23:01,528 - LandUse1 -INFO - Title of Test is Land Use
+2017-08-10 09:23:01,528 - LandUse1 -INFO - 	
+2017-08-10 09:23:01,528 - LandUse1 -INFO - Titles of both URLs are not same
+2017-08-10 09:23:01,528 - LandUse1 -INFO - 	
+2017-08-10 09:23:01,528 - LandUse1 -INFO - 	
+2017-08-10 09:23:01,560 - LandUse1 -INFO - 	
+2017-08-10 09:23:02,029 - LandUse1 -INFO - 	
