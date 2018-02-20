@@ -75,7 +75,7 @@ public class Programs1 {
 	@FindBy(xpath = ".//*[@id='tree']/li/ul/li/a[2]")
 	static List<WebElement> Table_MainelementsTest;
 
-	@FindBy(xpath = ".//*[@id='firstElement']/ul/li[2]/ul/li[1]/ul/li/a[2]")
+	@FindBy(xpath = ".//*[@id='88eb941a-3427-420d-8fbb-58530a493b39']/a")
 	static WebElement Table_SubElement_CIGTest;
 
 	@FindBy(xpath = ".//*[@id='mainContent']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/p")

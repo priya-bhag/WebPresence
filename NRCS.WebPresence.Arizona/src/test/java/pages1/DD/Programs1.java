@@ -66,7 +66,7 @@ public class Programs1 {
 	static WebElement INProd;
 
 	// Test Elements
-	@FindBy(xpath = ".//*[@id='layoutContainers']/div/table/tbody/tr/td/table/tbody/tr/td/div/section/div[2]/div[2]/div[2]/h2/a")
+	@FindBy(xpath = ".//*[@id='overview']/h2[1]/a")
 	static WebElement headingTest;
 
 	@FindBy(xpath = ".//*[@id='traversed']")
@@ -78,13 +78,13 @@ public class Programs1 {
 	@FindBy(xpath = "//*[contains(text(),'CIG Project Search' )]")
 	static WebElement Table_SubElement_CIGTest;
 
-	@FindBy(xpath = ".//*[@id='mainContent']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/p")
+	@FindBy(xpath = ".//*[@id='layoutContainers']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/p")
 	static WebElement Table2_HeadingTest;
 
-	@FindBy(xpath = ".//*[@id='mainContent']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/p")
+	@FindBy(xpath = ".//*[@id='layoutContainers']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/p")
 	static WebElement Table2_SubElementTest;
 
-	@FindBy(xpath = ".//*[@id='mainContent']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/ul/li/a")
+	@FindBy(xpath = ".//*[@@id='layoutContainers']/table/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td[1]/table/tbody/tr[4]/td/table/tbody/tr/td/div/ul/li/a")
 	static WebElement Table2_SubElementlINKSTest;
 
 	@FindBy(xpath = ".//*[@id='promobox']/div")

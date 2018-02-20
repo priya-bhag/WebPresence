@@ -384,6 +384,7 @@ log.info("Page with No Content  is " +uRL);
 		
 		
 		}
+		
 		List<String> LinksArrayTest = new ArrayList<String>();
 
 		List<WebElement> tableItems_Test = INTest.findElements(By.tagName("a"));
