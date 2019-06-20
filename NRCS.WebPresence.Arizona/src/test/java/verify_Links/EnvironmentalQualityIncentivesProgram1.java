@@ -90,7 +90,9 @@ public class EnvironmentalQualityIncentivesProgram1 {
 				}
 				catch(Exception e){
 					
-					System.out.println("hRef null First Block");
+					//System.out.println("hRef null First Block");
+					e.printStackTrace();
+
 				}
 				
 				
@@ -119,7 +121,9 @@ public class EnvironmentalQualityIncentivesProgram1 {
 					
 					
 		}catch(Exception e){
-			System.out.println("hRef is null");
+			e.printStackTrace();
+
+			//System.out.println("hRef is null");
 			
 		}
 

@@ -260,6 +260,7 @@ public class Cropland1 {
 					// log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 					buildresponsesTest.append(link_Test + "__" + httpURLConnect.getResponseMessage() + "\n");
+					 log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 					if (httpURLConnect.getResponseMessage().contains("OK")) {
 

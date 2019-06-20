@@ -26,7 +26,7 @@ public class Verify_HomePage1 {
 		driver = BrowserFactory.getBrowser(DataProviderFactory.getExcel().getdata(1, 0, 0));
 
 		driver.get(DataProviderFactory.getConfig().getApplicationUrl1()
-				+ DataProviderFactory.getExcel().getdata(0, 36, 0));
+				+ DataProviderFactory.getExcel().getdata(0,91, 0));
 
 		Helper.capturescreenshot(driver, "HomePageIN_Prod");
 

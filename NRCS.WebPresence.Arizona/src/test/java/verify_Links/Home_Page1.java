@@ -75,7 +75,7 @@ public class Home_Page1 {
 			// Test Methods
 
 			driver.get(DataProviderFactory.getConfig().getApplicationUrl3()
-					+ DataProviderFactory.getExcel().getdata(0, 91, 1));
+					+ DataProviderFactory.getExcel().getdata(0, 90, 1));
 
 			Helper.capturescreenshot(driver, "HomePage_Test");
 
@@ -225,7 +225,7 @@ public class Home_Page1 {
 
 					} else {
 
-						// log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
+					 log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 						buildresponsesTest.append(link_Test + "__" + httpURLConnect.getResponseMessage() + "\n");
 

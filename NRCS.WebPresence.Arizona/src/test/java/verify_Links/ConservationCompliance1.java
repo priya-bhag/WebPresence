@@ -169,8 +169,7 @@ public class ConservationCompliance1 {
 							if (title404.contains("HTTP 404 Not Found")){
 								
 								log.info("Broken Link : " +hRef);
-							}
-							
+							}	
 						}
 			Thread.sleep(10000);
 
@@ -238,7 +237,7 @@ public class ConservationCompliance1 {
 
 				} else {
 
-					// log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
+					log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 					buildresponsesTest.append(link_Test + "__" + httpURLConnect.getResponseMessage() + "\n");
 

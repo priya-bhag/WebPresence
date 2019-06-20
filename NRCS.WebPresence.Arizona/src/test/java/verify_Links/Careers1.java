@@ -82,8 +82,9 @@ String hRef =null ;
 				 hRef = elementUrls.getAttribute("href").toString();	
 			}
 			catch(Exception e){
+				e.toString();
 				
-				System.out.println("hRef null First Block");
+				//System.out.println("hRef null First Block");
 			}
 			
 			
@@ -112,8 +113,8 @@ String hRef =null ;
 				
 				
 	}catch(Exception e){
-		System.out.println("hRef is null");
-		
+		//System.out.println("hRef is null");
+		e.toString();
 	}
 
 		

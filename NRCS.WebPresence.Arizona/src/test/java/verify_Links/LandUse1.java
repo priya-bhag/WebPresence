@@ -215,8 +215,7 @@ String hRef =null ;
 					 log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 				} else {
-
-					// log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
+ log.info(link_Test+"-"+httpURLConnect.getResponseMessage());
 
 					buildresponsesTest.append(link_Test + "__" + httpURLConnect.getResponseMessage() + "\n");
 
